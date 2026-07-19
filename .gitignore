@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# CLion
+.idea/
+
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Logs
+*.log
