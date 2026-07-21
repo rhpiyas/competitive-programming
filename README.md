@@ -6,8 +6,6 @@ A collection of my accepted solutions to competitive programming problems from v
 
 - Codeforces
 - Beecrowd
-- CSES
-- AtCoder
 - Toph
 - Other Online Judges
 
@@ -22,6 +20,7 @@ competitive-programming/
 │
 ├── Codeforces/
 ├── Toph/
+├── Beecrowd/
 └── README.md
 ```
 
