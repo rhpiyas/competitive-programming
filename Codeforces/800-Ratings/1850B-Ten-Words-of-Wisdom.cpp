@@ -11,7 +11,8 @@ int main()
         int n;
         cin >> n;
 
-        int count = 0;
+        int max = 0;
+        int result = 0;
 
         for(int i=0; i<n; i++)
         {
@@ -20,11 +21,15 @@ int main()
 
             if(a<=10)
             {
-                count++;
+                if(max < b)
+                {
+                    max = b;
+                    result = i+1;
+                }
             }
         }
 
-        cout << count << endl;
+        cout << result << endl;
     }
 
 
