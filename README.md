@@ -12,6 +12,8 @@ A collection of my accepted solutions to competitive programming problems from v
 ## Language
 
 - C++
+- C
+- Python
 
 ## Repository Structure
 
